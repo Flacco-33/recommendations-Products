@@ -1,15 +1,15 @@
 from flask import Flask, request, jsonify
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
-from moduleRecomendation import get_user_recommendations  # Importa tu función de recomendación
+from moduleRecomendation import get_user_recommendations  # Import recommendation function
 
 
 app = Flask(__name__)
 
-# Carga los datos
+# Load the data
 data = pd.read_csv('products.csv')
 
-# Aquí deberías construir tu matriz de usuario-producto y la matriz de similitud de usuarios
+# Here you build the user-product matrix and your user similarity matrix.
 user_product_matrix = data.pivot_table(index='usuario_id', columns='nombre_producto', aggfunc='size', fill_value=0)
 user_similarity_df = pd.DataFrame(cosine_similarity(user_product_matrix), index=user_product_matrix.index, columns=user_product_matrix.index)
 
