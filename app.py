@@ -2,6 +2,8 @@ from flask import Flask, request, jsonify
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 from moduleRecomendation import get_user_recommendations  # Importa tu función de recomendación
+from flask_jwt_extended import JWTManager, jwt_required, create_access_token, get_jwt_identity
+
 
 app = Flask(__name__)
 
@@ -16,7 +18,14 @@ user_similarity_df = pd.DataFrame(cosine_similarity(user_product_matrix), index=
 def home():
     return "API de recomendaciones activa"
 
+@app.route('/generate_token', methods=['GET'])
+def generate_token():
+    # Genera el token JWT
+    access_token = create_access_token(identity='usuario_id')  # Cambia 'usuario_id' por el ID del usuario (si es necesario)
+    return jsonify(access_token=access_token), 200
+
 @app.route('/recommend', methods=['GET'])
+@jwt_required()  # Añade seguridad JWT a esta ruta
 def recommend():
     user_id = request.args.get('user_id')
     recommendations = get_user_recommendations(user_id, user_product_matrix, user_similarity_df, num_recommendations=5)
