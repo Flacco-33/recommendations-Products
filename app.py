@@ -7,6 +7,10 @@ from flask_jwt_extended import JWTManager, jwt_required, create_access_token, ge
 
 app = Flask(__name__)
 
+# Configuración de JWT
+app.config['JWT_SECRET_KEY'] = 'Bearer '  # Cambia 'tu_clave_secreta' por una clave segura
+jwt = JWTManager(app)
+
 # Carga los datos
 data = pd.read_csv('products.csv')
 
