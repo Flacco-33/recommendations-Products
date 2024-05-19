@@ -1,0 +1,480 @@
+usuario_id,correo_producto,nombre_producto,categoria,descripcion
+usuario1,usuario1@example.com,Coca-Cola 600ml,Bebidas,Bebida gaseosa refrescante
+usuario1,usuario1@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario1,usuario1@example.com,Sabritas Original,Snacks,Chips de papa clásicos
+usuario1,usuario1@example.com,Chocolate Carlos V,Dulces,Chocolate de leche clásico
+usuario1,usuario1@example.com,Bubulubu Marinela,Dulces,Dulce de malvavisco cubierto de chocolate
+usuario2,usuario2@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario2,usuario2@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario2,usuario2@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario2,usuario2@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario3,usuario3@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario3,usuario3@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario3,usuario3@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario3,usuario3@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario4,usuario4@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario4,usuario4@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario4,usuario4@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario5,usuario5@example.com,Coca-Cola Light 600ml,Bebidas,Bebida gaseosa sin azúcar
+usuario5,usuario5@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario5,usuario5@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario6,usuario6@example.com,Manzanita Sol 600ml,Bebidas,Bebida gaseosa con sabor a manzana
+usuario6,usuario6@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario6,usuario6@example.com,Chocolate Abuelita,Dulces,Chocolate para preparar bebidas calientes
+usuario6,usuario6@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario6,usuario6@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario7,usuario7@example.com,Coca-Cola 600ml,Bebidas,Bebida gaseosa refrescante
+usuario7,usuario7@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario7,usuario7@example.com,Sabritas Adobadas,Snacks,Chips de papa con sabor a adobo
+usuario8,usuario8@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario8,usuario8@example.com,Triki Trakes Gamesa,Dulces,Galletas de chocolate con relleno de crema
+usuario8,usuario8@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario8,usuario8@example.com,Fritos Chorizo y Limón,Snacks,Fritos de maíz con sabor a chorizo y limón
+usuario9,usuario9@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario9,usuario9@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario9,usuario9@example.com,Choco Krispis Kellogg's,Dulces,Cereal de arroz inflado con chocolate
+usuario10,usuario10@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario10,usuario10@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario10,usuario10@example.com,Choco Roles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario10,usuario10@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario11,usuario11@example.com,Coca-Cola Light 600ml,Bebidas,Bebida gaseosa sin azúcar
+usuario11,usuario11@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario11,usuario11@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario12,usuario12@example.com,Manzanita Sol 600ml,Bebidas,Bebida gaseosa con sabor a manzana
+usuario12,usuario12@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario12,usuario12@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario13,usuario13@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario13,usuario13@example.com,Chocolate Abuelita,Dulces,Chocolate para preparar bebidas calientes
+usuario13,usuario13@example.com,Sabritas Limón,Snacks,Chips de papa con sabor a limón
+usuario13,usuario13@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario14,usuario14@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario14,usuario14@example.com,Galletas Emperador Gamesa,Snacks,Galletas de chocolate con relleno de crema
+usuario14,usuario14@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario15,usuario15@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario15,usuario15@example.com,Triki Trakes Gamesa,Dulces,Galletas de chocolate con relleno de crema
+usuario15,usuario15@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario15,usuario15@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario16,usuario16@example.com,Coca-Cola 600ml,Bebidas,Bebida gaseosa refrescante
+usuario16,usuario16@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario16,usuario16@example.com,Sabritas Original,Snacks,Chips de papa clásicos
+usuario16,usuario16@example.com,Chocolate Carlos V,Dulces,Chocolate de leche clásico
+usuario16,usuario16@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario17,usuario17@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario17,usuario17@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario17,usuario17@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario17,usuario17@example.com,Bubulubu Marinela,Dulces,Dulce de malvavisco cubierto de chocolate
+usuario17,usuario17@example.com,Sabritas Limón,Snacks,Chips de papa con sabor a limón
+usuario18,usuario18@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario18,usuario18@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario18,usuario18@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario18,usuario18@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario18,usuario18@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario19,usuario19@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario19,usuario19@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario19,usuario19@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario19,usuario19@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario19,usuario19@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario20,usuario20@example.com,Coca-Cola Light 600ml,Bebidas,Bebida gaseosa sin azúcar
+usuario20,usuario20@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario20,usuario20@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario20,usuario20@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario20,usuario20@example.com,Chocolate Abuelita,Dulces,Chocolate para preparar bebidas calientes
+usuario21,usuario21@example.com,Manzanita Sol 600ml,Bebidas,Bebida gaseosa con sabor a manzana
+usuario21,usuario21@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario21,usuario21@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario21,usuario21@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario21,usuario21@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario22,usuario22@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario22,usuario22@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario22,usuario22@example.com,Sabritas Adobadas,Snacks,Chips de papa con sabor a adobo
+usuario22,usuario22@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario22,usuario22@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario23,usuario23@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario23,usuario23@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario23,usuario23@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario23,usuario23@example.com,Bubulubu Marinela,Dulces,Dulce de malvavisco cubierto de chocolate
+usuario24,usuario24@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario24,usuario24@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario24,usuario24@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario24,usuario24@example.com,Sabritas Original,Snacks,Chips de papa clásicos
+usuario24,usuario24@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario25,usuario25@example.com,Coca-Cola Light 600ml,Bebidas,Bebida gaseosa sin azúcar
+usuario25,usuario25@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario25,usuario25@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario25,usuario25@example.com,Chocolate Abuelita,Dulces,Chocolate para preparar bebidas calientes
+usuario25,usuario25@example.com,Triki Trakes Gamesa,Dulces,Galletas de chocolate con relleno de crema
+usuario26,usuario26@example.com,Manzanita Sol 600ml,Bebidas,Bebida gaseosa con sabor a manzana
+usuario26,usuario26@example.com,Galletas Emperador Gamesa,Snacks,Galletas de chocolate con relleno de crema
+usuario26,usuario26@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario26,usuario26@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario26,usuario26@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario27,usuario27@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario27,usuario27@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario27,usuario27@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario27,usuario27@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario27,usuario27@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario28,usuario28@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario28,usuario28@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario28,usuario28@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario28,usuario28@example.com,Sabritas Limón,Snacks,Chips de papa con sabor a limón
+usuario28,usuario28@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario29,usuario29@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario29,usuario29@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario29,usuario29@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario29,usuario29@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario29,usuario29@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario30,usuario30@example.com,Coca-Cola 600ml,Bebidas,Bebida gaseosa refrescante
+usuario30,usuario30@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario30,usuario30@example.com,Sabritas Original,Snacks,Chips de papa clásicos
+usuario30,usuario30@example.com,Chocolate Carlos V,Dulces,Chocolate de leche clásico
+usuario30,usuario30@example.com,Bubulubu Marinela,Dulces,Dulce de malvavisco cubierto de chocolate
+usuario31,usuario31@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario31,usuario31@example.com,Triki Trakes Gamesa,Dulces,Galletas de chocolate con relleno de crema
+usuario31,usuario31@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario31,usuario31@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario31,usuario31@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario32,usuario32@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario32,usuario32@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario32,usuario32@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario32,usuario32@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario32,usuario32@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario33,usuario33@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario33,usuario33@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario33,usuario33@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario33,usuario33@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario33,usuario33@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario34,usuario34@example.com,Coca-Cola Light 600ml,Bebidas,Bebida gaseosa sin azúcar
+usuario34,usuario34@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario34,usuario34@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario34,usuario34@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario34,usuario34@example.com,Chocolate Abuelita,Dulces,Chocolate para preparar bebidas calientes
+usuario35,usuario35@example.com,Manzanita Sol 600ml,Bebidas,Bebida gaseosa con sabor a manzana
+usuario35,usuario35@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario35,usuario35@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario35,usuario35@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario35,usuario35@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario36,usuario36@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario36,usuario36@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario36,usuario36@example.com,Sabritas Adobadas,Snacks,Chips de papa con sabor a adobo
+usuario36,usuario36@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario36,usuario36@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario37,usuario37@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario37,usuario37@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario37,usuario37@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario37,usuario37@example.com,Bubulubu Marinela,Dulces,Dulce de malvavisco cubierto de chocolate
+usuario37,usuario37@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario38,usuario38@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario38,usuario38@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario38,usuario38@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario38,usuario38@example.com,Sabritas Original,Snacks,Chips de papa clásicos
+usuario38,usuario38@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario39,usuario39@example.com,Coca-Cola Light 600ml,Bebidas,Bebida gaseosa sin azúcar
+usuario39,usuario39@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario39,usuario39@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario39,usuario39@example.com,Chocolate Abuelita,Dulces,Chocolate para preparar bebidas calientes
+usuario39,usuario39@example.com,Triki Trakes Gamesa,Dulces,Galletas de chocolate con relleno de crema
+usuario40,usuario40@example.com,Manzanita Sol 600ml,Bebidas,Bebida gaseosa con sabor a manzana
+usuario40,usuario40@example.com,Galletas Emperador Gamesa,Snacks,Galletas de chocolate con relleno de crema
+usuario40,usuario40@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario40,usuario40@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario40,usuario40@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario41,usuario41@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario41,usuario41@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario41,usuario41@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario41,usuario41@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario41,usuario41@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario42,usuario42@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario42,usuario42@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario42,usuario42@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario42,usuario42@example.com,Sabritas Limón,Snacks,Chips de papa con sabor a limón
+usuario42,usuario42@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario43,usuario43@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario43,usuario43@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario43,usuario43@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario43,usuario43@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario43,usuario43@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario44,usuario44@example.com,Coca-Cola 600ml,Bebidas,Bebida gaseosa refrescante
+usuario44,usuario44@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario44,usuario44@example.com,Sabritas Original,Snacks,Chips de papa clásicos
+usuario44,usuario44@example.com,Chocolate Carlos V,Dulces,Chocolate de leche clásico
+usuario44,usuario44@example.com,Bubulubu Marinela,Dulces,Dulce de malvavisco cubierto de chocolate
+usuario45,usuario45@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario45,usuario45@example.com,Triki Trakes Gamesa,Dulces,Galletas de chocolate con relleno de crema
+usuario45,usuario45@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario45,usuario45@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario45,usuario45@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario46,usuario46@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario46,usuario46@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario46,usuario46@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario46,usuario46@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario46,usuario46@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario47,usuario47@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario47,usuario47@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario47,usuario47@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario47,usuario47@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario47,usuario47@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario48,usuario48@example.com,Coca-Cola Light 600ml,Bebidas,Bebida gaseosa sin azúcar
+usuario48,usuario48@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario48,usuario48@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario48,usuario48@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario48,usuario48@example.com,Chocolate Abuelita,Dulces,Chocolate para preparar bebidas calientes
+usuario49,usuario49@example.com,Manzanita Sol 600ml,Bebidas,Bebida gaseosa con sabor a manzana
+usuario49,usuario49@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario49,usuario49@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario49,usuario49@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario49,usuario49@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario50,usuario50@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario50,usuario50@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario50,usuario50@example.com,Sabritas Adobadas,Snacks,Chips de papa con sabor a adobo
+usuario50,usuario50@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario50,usuario50@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario51,usuario51@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario51,usuario51@example.com,Triki Trakes Gamesa,Dulces,Galletas de chocolate con relleno de crema
+usuario51,usuario51@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario51,usuario51@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario51,usuario51@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario52,usuario52@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario52,usuario52@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario52,usuario52@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario52,usuario52@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario52,usuario52@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario53,usuario53@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario53,usuario53@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario53,usuario53@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario53,usuario53@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario53,usuario53@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario54,usuario54@example.com,Coca-Cola Light 600ml,Bebidas,Bebida gaseosa sin azúcar
+usuario54,usuario54@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario54,usuario54@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario54,usuario54@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario54,usuario54@example.com,Chocolate Abuelita,Dulces,Chocolate para preparar bebidas calientes
+usuario55,usuario55@example.com,Manzanita Sol 600ml,Bebidas,Bebida gaseosa con sabor a manzana
+usuario55,usuario55@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario55,usuario55@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario55,usuario55@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario55,usuario55@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario56,usuario56@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario56,usuario56@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario56,usuario56@example.com,Sabritas Adobadas,Snacks,Chips de papa con sabor a adobo
+usuario56,usuario56@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario56,usuario56@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario57,usuario57@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario57,usuario57@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario57,usuario57@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario57,usuario57@example.com,Bubulubu Marinela,Dulces,Dulce de malvavisco cubierto de chocolate
+usuario57,usuario57@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario58,usuario58@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario58,usuario58@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario58,usuario58@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario58,usuario58@example.com,Sabritas Original,Snacks,Chips de papa clásicos
+usuario58,usuario58@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario59,usuario59@example.com,Coca-Cola Light 600ml,Bebidas,Bebida gaseosa sin azúcar
+usuario59,usuario59@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario59,usuario59@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario59,usuario59@example.com,Chocolate Abuelita,Dulces,Chocolate para preparar bebidas calientes
+usuario59,usuario59@example.com,Triki Trakes Gamesa,Dulces,Galletas de chocolate con relleno de crema
+usuario60,usuario60@example.com,Manzanita Sol 600ml,Bebidas,Bebida gaseosa con sabor a manzana
+usuario60,usuario60@example.com,Galletas Emperador Gamesa,Snacks,Galletas de chocolate con relleno de crema
+usuario60,usuario60@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario60,usuario60@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario60,usuario60@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario61,usuario61@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario61,usuario61@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario61,usuario61@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario61,usuario61@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario61,usuario61@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario62,usuario62@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario62,usuario62@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario62,usuario62@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario62,usuario62@example.com,Sabritas Limón,Snacks,Chips de papa con sabor a limón
+usuario62,usuario62@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario63,usuario63@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario63,usuario63@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario63,usuario63@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario63,usuario63@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario63,usuario63@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario64,usuario64@example.com,Coca-Cola 600ml,Bebidas,Bebida gaseosa refrescante
+usuario64,usuario64@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario64,usuario64@example.com,Sabritas Original,Snacks,Chips de papa clásicos
+usuario64,usuario64@example.com,Chocolate Carlos V,Dulces,Chocolate de leche clásico
+usuario64,usuario64@example.com,Bubulubu Marinela,Dulces,Dulce de malvavisco cubierto de chocolate
+usuario65,usuario65@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario65,usuario65@example.com,Triki Trakes Gamesa,Dulces,Galletas de chocolate con relleno de crema
+usuario65,usuario65@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario65,usuario65@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario65,usuario65@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario66,usuario66@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario66,usuario66@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario66,usuario66@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario66,usuario66@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario66,usuario66@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario67,usuario67@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario67,usuario67@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario67,usuario67@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario67,usuario67@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario67,usuario67@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario68,usuario68@example.com,Coca-Cola Light 600ml,Bebidas,Bebida gaseosa sin azúcar
+usuario68,usuario68@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario68,usuario68@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario68,usuario68@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario68,usuario68@example.com,Chocolate Abuelita,Dulces,Chocolate para preparar bebidas calientes
+usuario69,usuario69@example.com,Manzanita Sol 600ml,Bebidas,Bebida gaseosa con sabor a manzana
+usuario69,usuario69@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario69,usuario69@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario69,usuario69@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario69,usuario69@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario70,usuario70@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario70,usuario70@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario70,usuario70@example.com,Sabritas Adobadas,Snacks,Chips de papa con sabor a adobo
+usuario70,usuario70@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario70,usuario70@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario71,usuario71@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario71,usuario71@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario71,usuario71@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario71,usuario71@example.com,Bubulubu Marinela,Dulces,Dulce de malvavisco cubierto de chocolate
+usuario71,usuario71@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario72,usuario72@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario72,usuario72@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario72,usuario72@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario72,usuario72@example.com,Sabritas Original,Snacks,Chips de papa clásicos
+usuario72,usuario72@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario73,usuario73@example.com,Coca-Cola Light 600ml,Bebidas,Bebida gaseosa sin azúcar
+usuario73,usuario73@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario73,usuario73@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario73,usuario73@example.com,Chocolate Abuelita,Dulces,Chocolate para preparar bebidas calientes
+usuario73,usuario73@example.com,Triki Trakes Gamesa,Dulces,Galletas de chocolate con relleno de crema
+usuario74,usuario74@example.com,Manzanita Sol 600ml,Bebidas,Bebida gaseosa con sabor a manzana
+usuario74,usuario74@example.com,Galletas Emperador Gamesa,Snacks,Galletas de chocolate con relleno de crema
+usuario74,usuario74@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario74,usuario74@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario74,usuario74@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario75,usuario75@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario75,usuario75@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario75,usuario75@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario75,usuario75@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario75,usuario75@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario76,usuario76@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario76,usuario76@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario76,usuario76@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario76,usuario76@example.com,Sabritas Limón,Snacks,Chips de papa con sabor a limón
+usuario76,usuario76@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario77,usuario77@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario77,usuario77@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario77,usuario77@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario77,usuario77@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario77,usuario77@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario78,usuario78@example.com,Coca-Cola 600ml,Bebidas,Bebida gaseosa refrescante
+usuario78,usuario78@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario78,usuario78@example.com,Sabritas Original,Snacks,Chips de papa clásicos
+usuario78,usuario78@example.com,Chocolate Carlos V,Dulces,Chocolate de leche clásico
+usuario78,usuario78@example.com,Bubulubu Marinela,Dulces,Dulce de malvavisco cubierto de chocolate
+usuario79,usuario79@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario79,usuario79@example.com,Triki Trakes Gamesa,Dulces,Galletas de chocolate con relleno de crema
+usuario79,usuario79@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario79,usuario79@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario79,usuario79@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario80,usuario80@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario80,usuario80@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario80,usuario80@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario80,usuario80@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario80,usuario80@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario81,usuario81@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario81,usuario81@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario81,usuario81@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario81,usuario81@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario81,usuario81@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario82,usuario82@example.com,Coca-Cola Light 600ml,Bebidas,Bebida gaseosa sin azúcar
+usuario82,usuario82@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario82,usuario82@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario82,usuario82@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario82,usuario82@example.com,Chocolate Abuelita,Dulces,Chocolate para preparar bebidas calientes
+usuario83,usuario83@example.com,Manzanita Sol 600ml,Bebidas,Bebida gaseosa con sabor a manzana
+usuario83,usuario83@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario83,usuario83@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario83,usuario83@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario83,usuario83@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario84,usuario84@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario84,usuario84@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario84,usuario84@example.com,Sabritas Adobadas,Snacks,Chips de papa con sabor a adobo
+usuario84,usuario84@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario84,usuario84@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario85,usuario85@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario85,usuario85@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario85,usuario85@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario85,usuario85@example.com,Bubulubu Marinela,Dulces,Dulce de malvavisco cubierto de chocolate
+usuario85,usuario85@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario86,usuario86@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario86,usuario86@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario86,usuario86@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario86,usuario86@example.com,Sabritas Original,Snacks,Chips de papa clásicos
+usuario86,usuario86@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario87,usuario87@example.com,Coca-Cola Light 600ml,Bebidas,Bebida gaseosa sin azúcar
+usuario87,usuario87@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario87,usuario87@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario87,usuario87@example.com,Chocolate Abuelita,Dulces,Chocolate para preparar bebidas calientes
+usuario87,usuario87@example.com,Triki Trakes Gamesa,Dulces,Galletas de chocolate con relleno de crema
+usuario88,usuario88@example.com,Manzanita Sol 600ml,Bebidas,Bebida gaseosa con sabor a manzana
+usuario88,usuario88@example.com,Galletas Emperador Gamesa,Snacks,Galletas de chocolate con relleno de crema
+usuario88,usuario88@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario88,usuario88@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario88,usuario88@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario89,usuario89@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario89,usuario89@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario89,usuario89@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario89,usuario89@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario89,usuario89@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario90,usuario90@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario90,usuario90@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario90,usuario90@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario90,usuario90@example.com,Sabritas Limón,Snacks,Chips de papa con sabor a limón
+usuario90,usuario90@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario91,usuario91@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario91,usuario91@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario91,usuario91@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario91,usuario91@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario91,usuario91@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario92,usuario92@example.com,Coca-Cola 600ml,Bebidas,Bebida gaseosa refrescante
+usuario92,usuario92@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario92,usuario92@example.com,Sabritas Original,Snacks,Chips de papa clásicos
+usuario92,usuario92@example.com,Chocolate Carlos V,Dulces,Chocolate de leche clásico
+usuario92,usuario92@example.com,Bubulubu Marinela,Dulces,Dulce de malvavisco cubierto de chocolate
+usuario93,usuario93@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario93,usuario93@example.com,Triki Trakes Gamesa,Dulces,Galletas de chocolate con relleno de crema
+usuario93,usuario93@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario93,usuario93@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario93,usuario93@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario94,usuario94@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario94,usuario94@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario94,usuario94@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario94,usuario94@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario94,usuario94@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario95,usuario95@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario95,usuario95@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario95,usuario95@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario95,usuario95@example.com,Nito Marinela,Snacks,Pastelito relleno de crema
+usuario95,usuario95@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario96,usuario96@example.com,Coca-Cola Light 600ml,Bebidas,Bebida gaseosa sin azúcar
+usuario96,usuario96@example.com,Palomitas Act II,Snacks,Palomitas de maíz para microondas
+usuario96,usuario96@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario96,usuario96@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario96,usuario96@example.com,Chocolate Abuelita,Dulces,Chocolate para preparar bebidas calientes
+usuario97,usuario97@example.com,Manzanita Sol 600ml,Bebidas,Bebida gaseosa con sabor a manzana
+usuario97,usuario97@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario97,usuario97@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
+usuario97,usuario97@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario97,usuario97@example.com,Mamut Gamesa,Dulces,Pastelito de chocolate con malvavisco
+usuario98,usuario98@example.com,Pepsi 600ml,Bebidas,Bebida gaseosa refrescante
+usuario98,usuario98@example.com,Churrumais Barcel,Snacks,Churritos de maíz con chile
+usuario98,usuario98@example.com,Sabritas Adobadas,Snacks,Chips de papa con sabor a adobo
+usuario98,usuario98@example.com,Gansito Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario98,usuario98@example.com,Chocorroles Marinela,Snacks,Pastelito relleno de crema y cubierto de chocolate
+usuario99,usuario99@example.com,Fanta 600ml,Bebidas,Bebida gaseosa con sabor a naranja
+usuario99,usuario99@example.com,Galletas Oreo,Snacks,Galletas de chocolate con crema
+usuario99,usuario99@example.com,Chokis Gamesa,Snacks,Galletas con chispas de chocolate
+usuario99,usuario99@example.com,Bubulubu Marinela,Dulces,Dulce de malvavisco cubierto de chocolate
+usuario99,usuario99@example.com,Ruffles Sabor Jalapeño,Snacks,Chips de papa con sabor a jalapeño
+usuario100,usuario100@example.com,Sprite 600ml,Bebidas,Bebida gaseosa con sabor a limón
+usuario100,usuario100@example.com,Ruffles Queso,Snacks,Chips de papa con sabor a queso
+usuario100,usuario100@example.com,Trident Sabor Menta,Dulces,Chicle sin azúcar con sabor a menta
+usuario100,usuario100@example.com,Sabritas Original,Snacks,Chips de papa clásicos
+usuario100,usuario100@example.com,Galletas Marías Gamesa,Snacks,Galletas dulces tradicionales
